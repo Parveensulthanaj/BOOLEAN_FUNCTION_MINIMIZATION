@@ -55,7 +55,6 @@ Developed by:Parveen Sulthana  RegisterNumber:24900218*/
 
 
 **Result:**
-Thus the given logic functions are implemented using their operations are verified using verilog programming.
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
